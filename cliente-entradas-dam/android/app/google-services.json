@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797234956063",
+    "project_id": "kym-entradas-dam-project-id",
+    "storage_bucket": "kym-entradas-dam-project-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797234956063:android:44eae48073b2a64165522a",
+        "android_client_info": {
+          "package_name": "com.kym.entradas_dam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797234956063-uvofl9f2t0ncj8gcg537fd8qetmf0bhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxqmn5hH25UU-JMeX4wREhtSQN0G4T4Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797234956063-uvofl9f2t0ncj8gcg537fd8qetmf0bhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
